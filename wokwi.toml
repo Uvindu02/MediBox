@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware ='C:/Users/YourUsername/Documents/PlatformIO/Projects/YourProject/.pio/build/arduino_nano_esp32/firmware.bin'
+elf = 'path-to-your-firmware.elf'
